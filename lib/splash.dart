@@ -41,7 +41,7 @@ class _MySplashState extends State<Splash> {
             ),
             Positioned(
               child: Image.asset(
-                'assets/leaf1.png',
+                'assets/leaf.png',
                 height: 790,
               ),
               left: 17, 
